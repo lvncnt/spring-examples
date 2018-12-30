@@ -1,0 +1,6 @@
+[submodule "spring-boot-amqp-messaging"]
+	path = spring-boot-amqp-messaging
+	url = https://github.com/lvncnt/spring-boot-amqp-messaging
+[submodule "spring-data-examples"]
+	path = spring-data-examples
+	url = https://github.com/lvncnt/spring-data-examples
